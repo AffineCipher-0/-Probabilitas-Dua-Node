@@ -1,1 +1,1 @@
-#  probabilitas dua node
+#  Probabilitas Dua Node
